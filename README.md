@@ -18,7 +18,7 @@ Tool | Manuscript | Comments
 [epiviz](https://epiviz.github.io) | [Nature Methods](https://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&retmode=ref&cmd=prlinks&id=25086505) | R / bioconductor tool. From quick reading of docs, I don't see how this can be deployed on a personal server. Last update late 2018. 
 [IGV](https://software.broadinstitute.org/software/igv/) | [Briefings in Bioinformatics](https://academic.oup.com/bib/article/14/2/178/208453/Integrative-Genomics-Viewer-IGV-high-performance?searchresult=1) | The benchmark for desktop tools. 
 
-## Genome Visualization 
+## Genome Visualization (static)
 Tool | Manuscript | Comments
 --- | ---- | ----
 [ggbio](https://bioconductor.org/packages/release/bioc/html/ggbio.html) |  [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2012-13-8-r77) | R / bioconductor tool. *gg* for *gg*plot grammar. 
