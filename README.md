@@ -27,4 +27,5 @@ Tool | Manuscript | Comments
 
 ## Discussions
 [2018 Maria Nattestad](https://medium.com/@Marianattestad/one-genome-browser-to-rule-them-all-cc41e2daccd7)
+
 [2013 A brief introduction to web-based genome browsers (Wang et al.)](https://academic.oup.com/bib/article/14/2/131/208726)
