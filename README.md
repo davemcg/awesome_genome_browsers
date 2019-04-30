@@ -21,8 +21,10 @@ Tool | Manuscript | Comments
 ## Genome Visualization 
 Tool | Manuscript | Comments
 --- | ---- | ----
-[ggviz]
-[Gviz]
-[karyoploteR](https://bioconductor.org/packages/release/bioc/html/karyoploteR.html) | 
+[ggbio](https://bioconductor.org/packages/release/bioc/html/ggbio.html) |  [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2012-13-8-r77) | R / bioconductor tool. *gg* for *gg*plot grammar. 
+[Gviz](http://bioconductor.org/packages/release/bioc/html/Gviz.html) | [Statistical Genomics](https://link.springer.com/protocol/10.1007%2F978-1-4939-3578-9_16) | R / bioconductor tool. Handles many data types. Good docs. 
+[karyoploteR](https://bioconductor.org/packages/release/bioc/html/karyoploteR.html) | [Bioinformatics](https://academic.oup.com/bioinformatics/article/33/19/3088/3857734) |  R / Bioconductor tool. As name suggests, most examples are genome-wide with karyoplots / ideograms with some overlaid data. 
 
 ## Discussions
+[2018 Maria Nattestad](https://medium.com/@Marianattestad/one-genome-browser-to-rule-them-all-cc41e2daccd7)
+[2013 A brief introduction to web-based genome browsers (Wang et al.)](https://academic.oup.com/bib/article/14/2/131/208726)
